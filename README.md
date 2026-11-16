@@ -2,7 +2,7 @@
 
 # Books
 
-A simple offline e-reader for the Mudita Kompakt. Copy books from your computer with Mudita Center and they appear in the app on their own. No account, no store, no internet.
+A simple offline e-reader for E Ink devices. Copy books from your computer and they appear in the app on their own. No account, no store, no internet.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
 
@@ -10,7 +10,7 @@ A simple offline e-reader for the Mudita Kompakt. Copy books from your computer 
 
 - Library of covers in alphabetical order, with the percentage read under each book.
 - EPUB, TXT, HTML, FB2, ODT, CBZ and PDF. PDF and comics are shown as pages.
-- Reads the book folder from Mudita Center (`Documents/MuditaCenter`). You choose it once; new books then appear when you open the app.
+- Reads books from a folder on the device. You choose it once; new books then appear when you open the app.
 - Every book opens where you stopped, even after a restart.
 - Bookmarks, contents, text size, font, line spacing and margins.
 - Local backup of progress and bookmarks, without the books.
@@ -24,6 +24,6 @@ Fully offline. The app has no INTERNET permission and no storage permissions: yo
 
 ## Install
 
-Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
+Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
 
-Made by ＠zsacic.
+Made by tintako.
