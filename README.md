@@ -31,3 +31,5 @@ Fully offline. The app has no internet permission and no storage permissions: yo
 ## Install
 
 Download the latest APK from Releases and install it on your device.
+
+**Updating from 0.8 or older:** from version 0.8.1 Books is signed with a new key, so Android can't install it over the old version. Once, before you update: open Books, go to Settings → General and tap **Export backup**. Then uninstall Books, install the new APK, choose your book folder again and tap **Import backup** in Settings → General. Your books stay in their folder; the backup brings back your progress and bookmarks.
