@@ -18,14 +18,13 @@ A simple offline e-reader made for E Ink. Copy books from your computer and they
 - Text size, font, line spacing, margins and alignment
 - Local backup of progress and bookmarks, without the books themselves
 - Kindle books (MOBI, AZW) and books with copy protection (DRM) are not supported
+- No notifications, now or later
 
 **Languages:** English, German, French, Spanish, Italian, Portuguese, Dutch, Polish and Czech
 
-- No notifications, now or later
-
 ## Privacy
 
-Fully offline. The app has no internet permission and no storage permissions: you give it read access to one folder through the system picker. A book opened from another app is kept as a copy on the phone,. Nothing leaves the phone. Books is made by Tintako, app@tintako.com.
+Fully offline. The app has no internet permission and no storage permissions: you give it read access to one folder through the system picker. A book opened from another app is kept as a copy on the phone. Nothing leaves the phone. Books is made by Tintako, app@tintako.com.
 
 - [Privacy Policy](PRIVACY.md)
 - [Terms of Use](TERMS.md)
@@ -33,6 +32,8 @@ Fully offline. The app has no internet permission and no storage permissions: yo
 
 ## Install
 
+**Latest version: 1.0** · [Download Books-1.0.apk](https://github.com/tintako-apps/books/releases/latest)
+
 Download the latest APK from Releases and install it on your device.
 
-**Updating from 0.8 or older:** from version 0.8.1 Books is signed with a new key, so Android can't install it over the old version. Once, before you update: open Books, go to Settings → General and tap **Export backup**. Then uninstall Books, install the new APK, choose your book folder again and tap **Import backup** in Settings → General. Your books stay in their folder; the backup brings back your progress and bookmarks.
+**Updating:** Books 1.0 installs over version 0.8.1 or later and keeps your books, places and bookmarks. Versions before 0.8.1 used a different signing key: there, export a backup in Settings first, uninstall Books, install the new APK, choose your book folder again and import the backup in Settings → Backup.

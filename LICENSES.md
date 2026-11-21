@@ -18,3 +18,5 @@ Books uses these open source parts. The full license texts are in the app (Setti
 | Lato font | — | SIL Open Font License 1.1 | latofonts.com |
 
 The list comes from the build's dependency report.
+
+_Applies to Books 1.0._

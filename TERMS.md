@@ -33,3 +33,5 @@ If these terms change, the new version is published here and in the app (Setting
 ## Contact
 
 app@tintako.com
+
+_Applies to Books 1.0._
