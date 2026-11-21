@@ -1,6 +1,6 @@
 # Books: Privacy Policy
 
-Last updated: 21 November 2026
+Last updated: 22 November 2026
 
 ## The short version
 
@@ -26,10 +26,6 @@ Your books are only read. The app never changes or deletes them, and copies only
 ## Permissions, and what each is for
 
 Books asks for no permissions. When another app opens a book in Books, Android gives access to that one file only. You choose your book folder once in the system file picker, and the app then has read-only access to that one folder. The APK contains one internal Android permission (`DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION`) that gives no access to anything on the phone.
-
-## The Tintako Launcher card
-
-If you use Tintako Launcher, Books gives it a card with your last book: title, author, page, percentage and cover. Only Tintako Launcher, checked by its signing key, can read the card, and it stays on your phone.
 
 ## What leaves, and only when you ask
 

@@ -12,7 +12,6 @@ A simple offline e-reader made for E Ink. Copy books from your computer and they
 - Reads EPUB, TXT, HTML, FB2, ODT, CBZ and PDF; PDF and comics are shown as pages
 - Finds new books in the folder you choose once, every time you open the app
 - Opens EPUB, PDF, FB2, ODT and CBZ files from other apps, such as a file manager, and adds them to the library
-- A card with your last book for Tintako Launcher: title, page, progress and cover
 - Every book opens where you stopped, even after a restart
 - Page turns without animation: arrows, volume keys, a tap on either side or a swipe
 - Bookmarks, contents, search by title or author
@@ -20,11 +19,13 @@ A simple offline e-reader made for E Ink. Copy books from your computer and they
 - Local backup of progress and bookmarks, without the books themselves
 - Kindle books (MOBI, AZW) and books with copy protection (DRM) are not supported
 
-**Languages:** English, Croatian, German, French, Spanish, Italian, Portuguese, Dutch, Polish and Czech
+**Languages:** English, German, French, Spanish, Italian, Portuguese, Dutch, Polish and Czech
+
+- No notifications, now or later
 
 ## Privacy
 
-Fully offline. The app has no internet permission and no storage permissions: you give it read access to one folder through the system picker. A book opened from another app is kept as a copy on the phone, and the Tintako Launcher card is read only by Tintako Launcher. Nothing leaves the phone. Books is made by Tintako, app@tintako.com.
+Fully offline. The app has no internet permission and no storage permissions: you give it read access to one folder through the system picker. A book opened from another app is kept as a copy on the phone,. Nothing leaves the phone. Books is made by Tintako, app@tintako.com.
 
 - [Privacy Policy](PRIVACY.md)
 - [Terms of Use](TERMS.md)
